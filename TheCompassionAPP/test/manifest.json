@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "Its an App",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "The Compassion APP",
+  "short_name": "CompassionAPP",
+  "start_url": "https://thecompassionapp.myweb.cs.uwindsor.ca/test/bootstrap.html"
+}

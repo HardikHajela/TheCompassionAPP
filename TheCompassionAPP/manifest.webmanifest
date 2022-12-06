@@ -1,0 +1,29 @@
+{
+	"name": "The Compassion App.",
+    "short_name": "CompassionAPP",
+    "start_url": "https://thecompassionapp.myweb.cs.uwindsor.ca/",
+    "display": "standalone",
+    "theme_color": "#000E3F",
+    "background_color": "#DFF7FF",
+    "description": "An App for anyone with Compassion!",
+    "icons": [
+    {
+      "src": "4-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "400x400",
+      "purpose": "any"
+    },
+    {
+      "src": "test/3.192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/test/4.512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
