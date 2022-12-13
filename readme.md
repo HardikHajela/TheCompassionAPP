@@ -1,5 +1,5 @@
 
-<img src="https://github.com/HardikHajela/TheCompassionAPP/blob/main/TheCompassionAPP/test/gitlogo.png" alt="Logo" height="60"/> <br />
+<img src="https://github.com/HardikHajela/TheCompassionAPP/blob/main/TheCompassionAPP/test/gitlogo.png" alt="Logo" height="60" align="center"/> <br />
 
 Dear Visitor, 
 
