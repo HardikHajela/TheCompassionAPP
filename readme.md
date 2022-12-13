@@ -1,3 +1,6 @@
+
+<img src="https://thecompassionapp.myweb.cs.uwindsor.ca/test/1.png" alt="Logo" height="60"/> <br />
+
 Dear Visitor, 
 
 Greetings! This Project was made as a Part of COMP 4990: Project Management of offered by the University of Windsor, and is a recommended course by "ACM".
