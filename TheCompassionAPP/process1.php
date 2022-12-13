@@ -4,7 +4,7 @@
   //$password = "UwindsorRocks";
   //$dbname = "hajela_tcapp";
 
-  $mysqli = new mysqli('localhost', 'hajela_tcapp', 'UwindsorRocks', 'hajela_tcapp') or die(mysqli_error($mysqli));
+  $mysqli = new mysqli('', '', '', '') or die(mysqli_error($mysqli));
 
   if (isset($_POST['submit'])){
    
