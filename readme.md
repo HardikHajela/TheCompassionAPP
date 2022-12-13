@@ -1,5 +1,5 @@
 
-<img src="https://thecompassionapp.myweb.cs.uwindsor.ca/test/1.png" alt="Logo" height="60"/> <br />
+<img src="https://github.com/HardikHajela/TheCompassionAPP/blob/main/TheCompassionAPP/test/gitlogo.png" alt="Logo" height="60"/> <br />
 
 Dear Visitor, 
 
