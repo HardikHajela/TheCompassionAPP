@@ -1,5 +1,5 @@
 {
-	"name": "The Compassion App.",
+    "name": "The Compassion App.",
     "short_name": "CompassionAPP",
     "start_url": "https://thecompassionapp.myweb.cs.uwindsor.ca/",
     "display": "standalone",
