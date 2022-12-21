@@ -8,4 +8,6 @@ To see it in action, kindly visit: https://thecompassionapp.myweb.cs.uwindsor.ca
 
 TheCompassionAPP is Progressive Web Application which can be installed in any PC, Smartphone and Tablet which can run a web browser! It's designed and developed by me using technologies such as HTML, CSS, PHP, JavaScript and MariaDB(MySQL) and using tools such as BootStrap and phpMyAdmin.
 
+The main aim of this application is to make the ends meet- from Patient to Doctor, from a Benefactor, to a Reciever.
+
 Kindly visit: https://thecompassionapp.myweb.cs.uwindsor.ca/AboutUs.html to know more about the Project!
