@@ -10,6 +10,6 @@ TheCompassionAPP is Progressive Web Application which can be installed in any PC
 
 The main aim of this application is to make the ends meet- from Patient to Doctor, from an NGO to a person in need, from a Benefactor to a Reciever.
 
-2 gourps of People can register and publish thier information through our Website: Benefactors and Recievers! Banefactors can be NGOs, Registered Mental Health Professionals, Medical Doctors, Nurses, etc.
+2 gourps of People can register and publish thier information through our Website: Benefactors and Recievers! Banefactors can be NGOs, Registered Mental Health Professionals, Medical Doctors, Nurses, etc. A Reciever can be a Patient, a person,  anyone impacted by COVID-19 in some way and seeking aid/advice from someone!
 
 Kindly visit: https://thecompassionapp.myweb.cs.uwindsor.ca/AboutUs.html to know more about the Project!
