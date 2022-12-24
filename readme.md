@@ -15,3 +15,7 @@ The main aim of this application is to make the ends meet- from Patient to Docto
 Once they Register with us, thier information is public, and everyone has access to it through the 'Lists' option!
 
 Kindly visit: https://thecompassionapp.myweb.cs.uwindsor.ca/AboutUs.html to know more about the Project!
+
+Lastly, If there's anything regarding to the App or the code you'd like to convey, I'm always open to Questions, Concerns and Comments. Any Input'll be appriciated! :D <br />
+
+Thank you! Have a Good one! :)
